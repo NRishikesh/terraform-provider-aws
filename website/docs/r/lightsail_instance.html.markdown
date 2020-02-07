@@ -50,7 +50,7 @@ Lightsail currently supports the following Availability Zones (e.g. `us-east-1a`
 
 - `ap-northeast-1{a,c,d}`
 - `ap-northeast-2{a,c}`
-- `ap-south-1{a,b}`
+- `ap-south-1{a,b,c}`
 - `ap-southeast-1{a,b,c}`
 - `ap-southeast-2{a,b,c}`
 - `ca-central-1{a,b}`
